@@ -136,19 +136,11 @@ Com uma abordagem orientada à solução, tenho histórico de contribuir para pr
 
 ## 📊 Estatísticas
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img  
-    alt="GitHub Stats" 
-    height="150" 
-    src="https://github-readme-stats.vercel.app/api?username=dev-edsonjr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-    style="max-width: 100%;"
-  />
-
-  <img 
+<div align="center">
+  <img
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-edsonjr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    style="max-width: 100%;"
+    src="https://github-readme-stats.vercel.app/api?username=dev-edsonjr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 </div>
 
